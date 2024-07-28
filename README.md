@@ -21,12 +21,6 @@ A fun and interactive Python program that simulates a turtle race using the `tur
    cd turtle-race
    ```
 
-2. Install required packages (if any):
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the program:
